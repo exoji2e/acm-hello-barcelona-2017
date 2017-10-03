@@ -1,0 +1,7 @@
+line_1: puts("1");
+line_2: puts("2");
+line_3: puts("3");
+if (expr_4()) goto line_2;
+line_5: puts("5");
+if (expr_6()) goto line_2;
+END
