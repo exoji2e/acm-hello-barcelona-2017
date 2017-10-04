@@ -1,0 +1,13 @@
+Typing this string will require 6 operations
+These operations are the following:
+1 c
+1 b
+1 a
+1 f
+2 2 3
+1 d
+Typing this string will require 0 operations
+These operations are the following:
+Typing this string will require 1 operations
+These operations are the following:
+1 a
