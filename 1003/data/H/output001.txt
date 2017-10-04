@@ -1,0 +1,14 @@
+Read and sort tickets 1
+Prepare segments 2
+Prepare trees 3
+Process queries 3
+1
+2
+2
+3
+0
+2
+0
+0
+0
+0
